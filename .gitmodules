@@ -1,0 +1,15 @@
+[submodule "mf-host"]
+	path = mf-host
+	url = https://github.com/EdinsonNM/mf-host.git
+[submodule "mf-main"]
+	path = mf-main
+	url = https://github.com/EdinsonNM/mf-main.git
+[submodule "mf-header"]
+	path = mf-header
+	url = https://github.com/EdinsonNM/mf-header.git
+[submodule "mf-1"]
+	path = mf-1
+	url = https://github.com/EdinsonNM/mf-1.git
+[submodule "mf-2"]
+	path = mf-2
+	url = https://github.com/EdinsonNM/mf-2.git
